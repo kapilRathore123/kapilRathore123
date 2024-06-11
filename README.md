@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kapilRathore
+- 👋 Hi, I’m kapil Rathore
 - 👀 I’m interested in web designing
 - 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ my dream company is Accenture ...
 -  .
 
 <!---
